@@ -1,5 +1,3 @@
-from urllib import response
-from xml.etree.ElementTree import tostring
 import requests
 import json
 import time

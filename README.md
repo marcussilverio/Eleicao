@@ -9,5 +9,5 @@ Script em python que faz uma requisição ao endpoint de resultados do STE a cad
   ```
 # Executando
   ```bash
-    python Resultado_2t.py
+  python Resultado_2t.py
   ```
